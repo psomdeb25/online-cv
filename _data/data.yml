@@ -27,11 +27,11 @@ sidebar:
     #goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Professional
-
       - idiom: Bengali
         level: Native
+
+      - idiom: English
+        level: Professional
 
       - idiom: Hindi
         level: Professional
@@ -40,26 +40,22 @@ sidebar:
         level: Elementary
 
     interests:
-      - item: Climbing
-        link:
+      - item: Hiking
+        #link:
 
-      - item: Snowboarding
-        link:
+      - item: Travel Photography
+        #link:
 
-      - item: Cooking
-        link:
+      - item: Reading
+        #link:
 
 career-profile:
-    title: Career Profile
+    title: Career Summary
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+       Have been a nucleic acid researcher for 4.5 years developing aptamers and 
+       DNAzymes by in-vitro selection.
 education:
-    - degree: MSc in Genome Science and Technology
+    - degree: M.Sc in Genome Science and Technology
       university: University of British Columbia
       time: 2016 - 2021
       details: |
