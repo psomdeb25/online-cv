@@ -27,11 +27,11 @@ sidebar:
     #goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Bengali
-        level: Native
-
       - idiom: English
         level: Professional
+
+      - idiom: Bengali
+        level: Native
 
       - idiom: Hindi
         level: Professional
@@ -56,7 +56,7 @@ career-profile:
        DNAzymes by in-vitro selection which were characterized using various gel 
        based assays. 
 education:
-    - degree: M.Sc in Genome Science and Technology
+    - degree: MSc in Genome Science and Technology
       university: University of British Columbia
       time: 2016 - 2021
       details: |
